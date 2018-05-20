@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://github.com/AphirakNamthang/TRO-DATABASE-github
+=======
+https://github.com/AphirakNamthang/TRO-DATABASE-github
+>>>>>>> b1c1563e120a8714a3131e6552117c6dce805655
